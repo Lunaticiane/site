@@ -1,0 +1,110 @@
+/*Configurações Globais*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: #f2f2f2;
+    margin: 30px;
+    color: #333;
+}
+
+/* Linha horizontal castanha */
+.linha-castanha {
+    border: none;
+    height: 3px;
+    background-color: rgb(119, 51, 51);
+    margin: 20px 0;
+}
+
+/* Títulos */
+h1 {
+    text-align: center;
+    color: #05182c;
+}
+
+/* Títulos */
+h4 {
+    text-align: left;
+    color: #14406c;
+}
+/* Subtítulo */
+h2 {
+    color: #0d023a;
+
+}
+/* Subtítulo */
+h3 {
+    color: #04030c;
+}
+
+/* Título2 */
+.titulo-color2 {
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+    text-align: left;
+    margin-top: 20px;
+}
+
+/* Título Imagem2 */
+.titulo-imagem2{
+    color: rgb(255, 27, 244);
+    font-size: 28px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Parágrafos */
+p {
+    text-align: justify;
+    line-height: 1.6;
+}
+
+/* Lista */
+ol {
+   margin-bottom: 4px;
+   color: rgb(104, 28, 28);
+   line-height: 1.9;
+   
+}
+
+/* Link */
+a {
+    color: rgba(17, 17, 186, 0.875);
+    font-weight: bold;
+}
+
+th, td {
+    border: 1px solid #ffffff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Cabeçalho da tabela */
+th {
+    background-color: #9cefa3; /* verde claro */
+    font-weight: bold;
+}
+
+/* Tabela */
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #abebff;
+}
+/* Imagem */
+.imagem {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.imagem img {
+    width: 300px;
+    width: 300px;
+ /* 15% transparência */
+  opacity: 0.15; 
+}
+
+/* Texto centrado */
+.texto-centrado {
+    text-align: center; 
+}
